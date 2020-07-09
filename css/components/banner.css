@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(../../images/paneles.jpg);
+  background-size: cover;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 280px 0px;
+  display:flex;
+  justify-content: center;
+  align-items: flex-start;
+  
+ 
+}
+.banner h1 p{
+  color:black;
+
+}

@@ -1,0 +1,15 @@
+.banner-buton{
+  
+  background-color: #0a4180;
+  padding: 16px 36px;
+  border-radius: 20px;
+  color: white;
+  box-shadow: 1px 1px 1px rgb(3, 21, 53);
+  
+}
+.banner-buton:hover{
+  background-color: #1053a0;
+}
+.banner.button a {
+    text-decoration: none;
+}
